@@ -145,9 +145,9 @@ DEBUG if set say more about what you are doing.
 
 from the working dir:
 
- docker build -f python.Dockerfile . -t carrotrewards/kube-cloudwatch-autoscaler:latest
+ docker build -f python.Dockerfile . -t drthornt/kube-cloudwatch-autoscaler:latest
 
- docker push carrotrewards/kube-cloudwatch-autoscaler:latest
+ docker push drthornt/kube-cloudwatch-autoscaler:latest
 
 ### To do / wishlist
 

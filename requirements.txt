@@ -29,5 +29,5 @@ requests-oauthlib==1.0.0
 rsa
 s3transfer==0.1.13
 six==1.11.0
-urllib3==1.24.2
+urllib3==1.25.6
 websocket-client==0.53.0
